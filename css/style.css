@@ -1,0 +1,13 @@
+.title {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bolder;
+}
+
+#parag {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+img {
+  width: 200px;
+}
